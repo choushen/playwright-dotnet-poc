@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+
+# Ignore visualiser
+PlaywrightEdgeTests/Visual Studio 2022/Visualizers/
